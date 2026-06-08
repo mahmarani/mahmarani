@@ -8,7 +8,13 @@ Computer Science student at Sukkur IBA University (2024–2028), passionate abou
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+## ☕ Java Development
+- Strong foundation in **OOP** and **DSA** using Java
+- Built multiple Java projects including store management and hotel management systems
+- Comfortable with core Java concepts, collections, and problem solving
 
 ## 🚀 What I'm working on
 - Building data analysis projects using Python & Pandas
