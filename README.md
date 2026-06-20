@@ -16,6 +16,13 @@ Computer Science student at Sukkur IBA University (2024–2028), passionate abou
 - Built multiple Java projects including store management and hotel management systems
 - Comfortable with core Java concepts, collections, and problem solving
 
+
+**Data Analysis** — Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL), Excel
+**Databases** — MySQL, MongoDB
+**Programming** — Java, C++
+**Tools** — Git, GitHub
+
+
 ## 🚀 What I'm working on
 - Building data analysis projects using Python & Pandas
 - Exploring freelancing in data & Excel services
