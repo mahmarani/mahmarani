@@ -17,9 +17,12 @@ Computer Science student at Sukkur IBA University (2024–2028), passionate abou
 - Comfortable with core Java concepts, collections, and problem solving
 
 
-**Data Analysis** — Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL), Excel
-**Databases** — MySQL, MongoDB
-**Programming** — Java, C++
+## Data Analysis
+— **Python (Pandas, NumPy, Matplotlib, Seaborn)**, **SQL (MySQL)**, **Excel**
+## Databases
+**MySQL**, **MongoDB**
+## Programming
+**Java**,**C++**
 **Tools** — Git, GitHub
 
 
